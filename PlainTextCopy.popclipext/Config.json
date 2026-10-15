@@ -1,6 +1,6 @@
 {
   "name": "纯文本复制",
-  "identifier": "local.GravityPoet.popclip.plain-text-copy",
+  "identifier": "local.gravitypoet.popclip.plain-text-copy",
   "description": "仅以纯文本格式复制选中的文字，不包含 HTML 或富文本格式，也不显示复制提示。",
   "icon": "iconify:mdi:clipboard-text-outline",
   "title": "\u200b",
